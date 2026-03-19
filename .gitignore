@@ -1,0 +1,4 @@
+app/
+chromedriver-mobile/
+node_modules/
+*.apk
